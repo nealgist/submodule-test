@@ -51,6 +51,8 @@ if ( self.cloud.datakey === '' ) {
 
 var messaging = vAPI.messaging;
 
+var nealiusMaximus = 'tada!';
+
 /******************************************************************************/
 
 var onCloudDataReceived = function(entry) {
